@@ -1,0 +1,1 @@
+This project focuses on applying sentiment analysis combined with deep learning techniques to predict short-term Bitcoin price movements. By analyzing the sentiment of bitcoin news articles along with historical price data, the models aim to provide a predictions of Bitcoin's price trends over the next 14 days.
